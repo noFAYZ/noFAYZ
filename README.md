@@ -16,8 +16,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/fayzan-asad/](https://www.linkedin.com/in/fayzan-asad/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofayz&show_icons=true&locale=en&layout=compact" alt="nofayz" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofayz&show_icons=true&locale=en&layout=compact" alt="nofayz" /></p>
+</n>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nofayz&show_icons=true&locale=en" alt="nofayz" /></p>
 
 
