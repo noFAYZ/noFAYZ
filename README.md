@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/_thedarkmatter" target="blank"><img src="https://img.shields.io/twitter/follow/_thedarkmatter?logo=twitter&style=for-the-badge" alt="_thedarkmatter" /></a> </p>
+<p align="right"> <a href="https://twitter.com/_thedarkmatter" target="blank"><img src="https://img.shields.io/twitter/follow/_thedarkmatter?logo=twitter&style=for-the-badge" alt="_thedarkmatter" /></a> </p>
 
 - 🔭 I’m currently working on [IQera](iqeraschools.com)
 
@@ -34,5 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofayz&show_icons=true&locale=en&layout=compact" alt="nofayz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nofayz&show_icons=true&locale=en" alt="nofayz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nofayz&show_icons=true&locale=en" alt="nofayz" /></p>
 
