@@ -19,7 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofayz&show_icons=true&locale=en&layout=compact" alt="nofayz" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nofayz&show_icons=true&locale=en" alt="nofayz" /></p>
-</n>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
