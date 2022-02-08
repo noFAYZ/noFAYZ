@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ME(R/A)N**
 
-- 👨‍💻 All of my projects are available at [fayzan.me](fayzan.me)
+- 👨‍💻 All of my projects are available at [faizanasad.com](faizanasad.com)
 
 - 📝 I regularly write articles on [fayzan.me/blog](fayzan.me/blog)
 
