@@ -3,13 +3,13 @@
 
 <p align="right"> <a href="https://twitter.com/_thedarkmatter" target="blank"><img src="https://img.shields.io/twitter/follow/_thedarkmatter?logo=twitter&style=for-the-badge" alt="_thedarkmatter" /></a> </p>
 
-- 🔭 I’m currently working on [IQera](iqeraschools.com)
+- 🔭 I’m currently working as Freelancer.
 
-- 🌱 I’m currently learning **ME(R/A)N**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [faizanasad.com](faizanasad.com)
 
-- 📝 I regularly write articles on [fayzan.me/blog](fayzan.me/blog)
+- 📝 I regularly write articles on [faizanasad.com/blog](fayzan.me/blog)
 
 - 📫 How to reach me **m.faizanasad97@gmail.com**
 
