@@ -51,7 +51,7 @@ I’m a Full-stack wizard with a knack for web3 and Solidity magic. Building dec
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" align="center" height="200" width="" />
+<img src="https://media.baamboozle.com/uploads/images/135848/1613986171_217095_gif-url.gif" align="center" height="200" width="" />
 </div>  
 
 
@@ -110,3 +110,6 @@ I’m a Full-stack wizard with a knack for web3 and Solidity magic. Building dec
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
