@@ -39,7 +39,7 @@ I’m a Full-stack wizard with a knack for web3 and Solidity magic. Building dec
 - I’m currently working on [Ocean.money](https://ocean.money) 👽  
   
 
-- I’m currently learning Solidity and Rust 🥵  
+- I’m currently learning Solidity and Rust. It never ends! 🥵  
   
 
 - Ask me about anything related to MERN stack and related technologies 🤔  
