@@ -36,7 +36,7 @@ I’m a Full-stack wizard with a knack for web3 and Solidity magic. Building dec
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I’m currently working on [Ocean.money](https://ocean.money) 👽  
+- I’m currently working on [DeFlexy.com](https://deflexy.com) 👽  
   
 
 - I’m currently learning Solidity and Rust. It never ends! 🥵  
