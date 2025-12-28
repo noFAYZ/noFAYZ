@@ -4,21 +4,13 @@
 <a href="https://github.com/noFAYZ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/_thedarkmatter" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://dev.to/noFAYZ" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/fayzan_asad" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/F.A.Y.Z.0" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/__thedarkmatter" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://codepen.com/noFAYZ" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
@@ -27,23 +19,18 @@
 
 
 ### Glad to see you here!  
-I’m a Full-stack wizard with a knack for web3 and Solidity magic. Building decentralized apps that are both beautiful and secure, one smart contract at a time. Always pushing the boundaries of what's possible on the web. Ready to take on any challenge and bring your digital dreams to life.  
+I’m a Full-stack wizard with bouncing between web3 web2. Building decentralized apps and some hobby sideprojects. Always pushing the boundaries of what's possible on the web. Ready to take on any challenge and bring your digital dreams to life.  
   
 
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
-- I’m currently working on [DeFlexy.com](https://deflexy.com) 👽  
-  
+- Working on [MoneyMappr](https://moneymappr.com) 👽  
 
 - I’m currently learning Solidity and Rust. It never ends! 🥵  
-  
-
-- Ask me about anything related to MERN stack and related technologies 🤔  
-  
 
 - Only available at night 👀  
 
@@ -51,7 +38,7 @@ I’m a Full-stack wizard with a knack for web3 and Solidity magic. Building dec
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.baamboozle.com/uploads/images/135848/1613986171_217095_gif-url.gif" align="center" height="200" width="" />
+<img src="https://media.baamboozle.com/uploads/images/135848/1613986171_217095_gif-url.gif" align="center" height="200" width="200" />
 </div>  
 
 
