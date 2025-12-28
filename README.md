@@ -35,13 +35,6 @@ I’m a Full-stack wizard with bouncing between web3 web2. Building decentralize
 - Only available at night 👀  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.baamboozle.com/uploads/images/135848/1613986171_217095_gif-url.gif" align="center" height="200" width="200" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
