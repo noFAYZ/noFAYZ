@@ -1,45 +1,144 @@
-<!-- ===================== HERO ===================== -->
-
-<h1 align="center">⚡ Fayzan // noFAYZ</h1>
+# ⚡ Fayzan // noFAYZ
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Web3+%2F+Blockchain+Builder;Systems+Architect+in+Progress;I+build+scalable+digital+systems+not+just+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Web3+Builder;System+Architect+in+Progress;Building+Scalable+Digital+Systems" />
 </p>
 
 <p align="center">
-  <b>Full-Stack Engineer • Web3 Builder • System Designer</b><br/>
-  <i>“Build it simple. Make it scalable. Ship it fast.”</i>
+  Full-Stack Engineer • Web3 Developer • System Builder  
 </p>
 
 ---
 
-<!-- ===================== SOCIALS ===================== -->
+## 🔗 LINKS
 
-<p align="center">
-  <a href="https://github.com/noFAYZ">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/fayzan_asad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/noFAYZ">
-    <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://codepen.com/noFAYZ">
-    <img src="https://img.shields.io/badge/CodePen-111111?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-</p>
+- GitHub: https://github.com/noFAYZ  
+- LinkedIn: https://linkedin.com/in/fayzan_asad  
+- DEV: https://dev.to/noFAYZ  
+- CodePen: https://codepen.com/noFAYZ  
 
 ---
-
-<!-- ===================== ABOUT ===================== -->
 
 ## 🧬 SYSTEM PROFILE
 
-```yaml
-identity: Fayzan (noFAYZ)
-role: Full Stack + Web3 Engineer
-focus: scalable systems + decentralized apps
-current_state: Building MoneyMappr
-mode: Night Execution 🌙
-mindset: "If it doesn’t scale, it doesn’t matter."
+**Identity:** Fayzan  
+**Role:** Full-Stack + Web3 Engineer  
+**Focus:** Scalable systems & decentralized apps  
+**Current Project:** MoneyMappr  
+**Mode:** Night Execution 🌙  
+**Mindset:** If it doesn’t scale, it doesn’t matter
+
+---
+
+## 🚀 WHAT I BUILD
+
+- Financial intelligence systems  
+- Web3 / blockchain applications  
+- Scalable backend architectures  
+- SaaS platforms  
+- Production-grade systems  
+
+---
+
+## 💠 CURRENT PROJECT — MoneyMappr
+
+Turning financial data into visual intelligence.
+
+**Stack:**
+- Next.js
+- Node.js
+- Express
+- PostgreSQL (Prisma)
+- Redis
+- AWS EC2 + Nginx + PM2
+
+**Goal:**
+- Visualize financial behavior  
+- Replace spreadsheets with systems  
+- Build decision intelligence layer  
+- Future: Web3 integration  
+
+---
+
+## 🧰 TECH STACK
+
+**Languages**
+TypeScript • JavaScript • Python • Node.js  
+
+**Frontend**
+React • Next.js • Tailwind CSS  
+
+**Backend**
+Express • GraphQL • PostgreSQL • MongoDB  
+
+**DevOps**
+Docker • Linux • AWS • GitHub Actions  
+
+**Web3**
+Solidity • Rust  
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noFAYZ&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noFAYZ&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noFAYZ&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noFAYZ&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 ENGINEERING RULES
+
+1. If it doesn’t scale → it’s temporary  
+2. If it’s not automated → it becomes debt  
+3. If it’s not deployed → it doesn’t exist  
+4. If it’s complex → it’s wrong  
+5. If it’s clean → it survives production  
+
+---
+
+## 🌐 STATUS
+
+- User: noFAYZ  
+- State: ACTIVE BUILDING  
+- Project: MoneyMappr  
+- Availability: Selective  
+
+---
+
+## 🤝 CONNECT
+
+- Email: your-email@example.com  
+- LinkedIn: https://linkedin.com/in/fayzan_asad  
+- GitHub: https://github.com/noFAYZ  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noFAYZ&style=flat-square&color=00f7ff" />
+</p>
+
+<p align="center">
+  Built with discipline. Shipped with obsession. 🚀
+</p>
