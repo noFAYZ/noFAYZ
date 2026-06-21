@@ -1,62 +1,45 @@
-# Hey there 👋, I'm Fayzan
+<!-- ===================== HERO ===================== -->
 
-### Full-Stack & Web3 Developer | Builder of Scalable Digital Products
+<h1 align="center">⚡ Fayzan // noFAYZ</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Web3+%2F+Blockchain+Builder;Systems+Architect+in+Progress;I+build+scalable+digital+systems+not+just+apps" />
+</p>
+
+<p align="center">
+  <b>Full-Stack Engineer • Web3 Builder • System Designer</b><br/>
+  <i>“Build it simple. Make it scalable. Ship it fast.”</i>
+</p>
 
 ---
 
-<p align="left">
+<!-- ===================== SOCIALS ===================== -->
+
+<p align="center">
   <a href="https://github.com/noFAYZ">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/fayzan_asad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://dev.to/noFAYZ">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
   <a href="https://codepen.com/noFAYZ">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodePen-111111?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
+<!-- ===================== ABOUT ===================== -->
 
-I’m a full-stack developer focused on building **scalable web apps & decentralized systems**.
-
-I enjoy turning complex ideas into clean, usable, and production-ready products — whether it's Web2 platforms or Web3 protocols.
-
-- 🧠 Currently building: **[MoneyMappr](https://moneymappr.com)**
-- ⛓️ Exploring: Solidity, Rust & advanced blockchain architectures  
-- 🌙 Work mode: Night owl developer  
-- 🚀 Goal: Build products that actually ship & scale  
-
----
-
-## 🧩 Tech Stack
-
-### Languages & Core
-`JavaScript` • `TypeScript` • `Node.js` • `Python`
-
-### Frontend
-`React` • `Next.js` • `Tailwind CSS` • `Figma`
-
-### Backend & Database
-`Express.js` • `GraphQL` • `PostgreSQL` • `MongoDB` • `MySQL`
-
-### DevOps & Tools
-`Docker` • `Linux` • `Git/GitHub` • `Google Cloud` • `Firebase`
-
-### Web3 (Learning/Building)
-`Solidity` • `Rust` • `Smart Contracts` • `DeFi Concepts`
-
----
-
-## 🚀 Current Focus
+## 🧬 SYSTEM PROFILE
 
 ```yaml
-project: MoneyMappr
-role: Full Stack + Architecture
-stack: Next.js + Node.js + PostgreSQL + Redis
-goal: Build a financial mapping ecosystem for smarter money decisions
+identity: Fayzan (noFAYZ)
+role: Full Stack + Web3 Engineer
+focus: scalable systems + decentralized apps
+current_state: Building MoneyMappr
+mode: Night Execution 🌙
+mindset: "If it doesn’t scale, it doesn’t matter."
