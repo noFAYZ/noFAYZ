@@ -31,14 +31,10 @@
 
 <br>
 
-<!-- 01 · Contribution streak -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=noFAYZ\&theme=github-green-purple\&hide_border=true)
-
-<br>
 
 
-<!-- 02 · Profile views -->
+
+<!-- 01 · Profile views -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noFAYZ\&style=flat-square\&color=blueviolet\&label=profile%20views)
 
