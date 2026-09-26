@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fayzan
+# Faizan
 
 ### Software Engineer · Full-Stack Developer
 
