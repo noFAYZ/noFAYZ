@@ -1,12 +1,5 @@
 <div align="center">
 
-# Faizan
-
-### Software Engineer · Full-Stack Developer
-
-`web2` · `web3` · `open source`
-
-<br>
 
 [website](https://fayzan.xyz)  · 
 [github](https://github.com/noFAYZ)  · 
@@ -20,7 +13,6 @@
 
 
 
-<br>
 
 <div align="center">
 
@@ -34,8 +26,8 @@
 
 
 
-<!-- 01 · Profile views -->
+<!-- 01 · Profile views
 
-![Profile Views](https://komarev.com/ghpvc/?username=noFAYZ\&style=flat-square\&color=blueviolet\&label=profile%20views)
+![Profile Views](https://komarev.com/ghpvc/?username=noFAYZ\&style=flat-square\&color=blueviolet\&label=profile%20views) -->
 
 </div>
