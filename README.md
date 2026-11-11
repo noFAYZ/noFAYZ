@@ -7,21 +7,12 @@
 [x](https://x.com/noFAYZ)  · 
 [reddit](https://reddit.com/u/noFAYZ)
 
-<br>
-
-</div>
 
 
 
-
-<div align="center">
-
-### `toolbox`
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js`
 `PostgreSQL` · `Docker` · `Solidity` · `Rust`
-
-<br>
 
 
 
