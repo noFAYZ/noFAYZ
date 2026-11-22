@@ -11,10 +11,6 @@
 
 
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js`
-`PostgreSQL` · `Docker` · `Solidity` · `Rust`
-
-
 
 
 <!-- 01 · Profile views
